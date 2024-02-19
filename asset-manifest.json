@@ -1,0 +1,18 @@
+{
+  "files": {
+    "main.css": "/portfolio/static/css/main.01e8d625.css",
+    "main.js": "/portfolio/static/js/main.c7af8a4c.js",
+    "static/js/787.7da95b79.chunk.js": "/portfolio/static/js/787.7da95b79.chunk.js",
+    "static/media/portfolioImage.jpg": "/portfolio/static/media/portfolioImage.20072f6e37ada869ac7c.jpg",
+    "static/media/Mars_Rover.png": "/portfolio/static/media/Mars_Rover.b629b808e7de8e685e4d.png",
+    "static/media/Account_Dashboard.png": "/portfolio/static/media/Account_Dashboard.a63cc967758fb2600a8b.png",
+    "index.html": "/portfolio/index.html",
+    "main.01e8d625.css.map": "/portfolio/static/css/main.01e8d625.css.map",
+    "main.c7af8a4c.js.map": "/portfolio/static/js/main.c7af8a4c.js.map",
+    "787.7da95b79.chunk.js.map": "/portfolio/static/js/787.7da95b79.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.01e8d625.css",
+    "static/js/main.c7af8a4c.js"
+  ]
+}
