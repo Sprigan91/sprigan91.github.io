@@ -1,18 +1,29 @@
 {
   "files": {
-    "main.css": "/static/css/main.1568eab0.css",
-    "main.js": "/static/js/main.4f78fded.js",
+    "main.css": "/static/css/main.64121974.css",
+    "main.js": "/static/js/main.49406020.js",
     "static/js/787.7da95b79.chunk.js": "/static/js/787.7da95b79.chunk.js",
+    "static/media/trombone_team.jpg": "/static/media/trombone_team.7ce609f70d983c460ac3.jpg",
     "static/media/portfolioImage.jpg": "/static/media/portfolioImage.20072f6e37ada869ac7c.jpg",
+    "static/media/Basket_3.png": "/static/media/Basket_3.f87335ec3b8f4f4a7fa2.png",
+    "static/media/Basket_2.png": "/static/media/Basket_2.81b3faa8f7fd67ed94a3.png",
+    "static/media/Basketball_Vaisala.png": "/static/media/Basketball_Vaisala.900eba1ff1b7de7d9137.png",
     "static/media/Mars_Rover.png": "/static/media/Mars_Rover.b629b808e7de8e685e4d.png",
+    "static/media/Dune.jpg": "/static/media/Dune.d48f5f20f3296f61ce23.jpg",
+    "static/media/OHE.jpg": "/static/media/OHE.84b90b3e2d3e4da6ea1a.jpg",
+    "static/media/Eragon_3.jpeg": "/static/media/Eragon_3.2ed67719b90da84fae07.jpeg",
+    "static/media/ensemble_cuivre.jpg": "/static/media/ensemble_cuivre.822ef40e6d1b74215254.jpg",
+    "static/media/Solo-leveling.jpg": "/static/media/Solo-leveling.bc61cce9d9263a6036b6.jpg",
     "static/media/Account_Dashboard.png": "/static/media/Account_Dashboard.a63cc967758fb2600a8b.png",
+    "static/media/Nioh_2.jpg": "/static/media/Nioh_2.bf6309fa187006687e29.jpg",
+    "static/media/Memory_concert.jpg": "/static/media/Memory_concert.e37e8de7ddc49b5f0800.jpg",
     "index.html": "/index.html",
-    "main.1568eab0.css.map": "/static/css/main.1568eab0.css.map",
-    "main.4f78fded.js.map": "/static/js/main.4f78fded.js.map",
+    "main.64121974.css.map": "/static/css/main.64121974.css.map",
+    "main.49406020.js.map": "/static/js/main.49406020.js.map",
     "787.7da95b79.chunk.js.map": "/static/js/787.7da95b79.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.1568eab0.css",
-    "static/js/main.4f78fded.js"
+    "static/css/main.64121974.css",
+    "static/js/main.49406020.js"
   ]
 }
